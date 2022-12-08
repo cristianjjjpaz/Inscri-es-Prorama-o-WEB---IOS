@@ -1,0 +1,54 @@
+body {
+    background-color: #b8af03
+}
+
+header {
+    background-color: #170409;
+    color: #ccbf82;
+    text-align: center;
+    padding: 1%;
+    font-size: 200%;
+}
+
+h3 {
+    background-color: #170409;
+    color:  #ccbf82;
+    padding: 1% 1%;
+    font-size: 150%;
+}
+
+article {
+    background-color: #67917a;
+    color:#170409;
+}
+
+h2 {
+    background-color: #170409;
+    color: #ccbf82;
+    padding: 2px;
+
+}
+
+ul {
+    background-color: #ccbf82;
+    padding: 1% 2%;
+}
+
+.container {
+   padding: 1% 2%;
+   display: flex;
+   justify-content: space-between;
+}
+
+.chamado {
+    padding: 10% 11%;
+    font-size: 120%;
+
+}
+
+h1 {
+    background-color: #170409;
+    color: #ccbf82;
+    background-color: #170409;
+    color: #ccbf82;
+}
